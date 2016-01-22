@@ -1,8 +1,7 @@
 ![image](https://github.com/diaochunmeng/iFriendIdentification/blob/master/demo/launch.png)
 
 
-友贱 for Android
-究竟哪个jian人偷偷删你的微信?
+友贱安卓版 究竟哪个jian人偷偷删你的微信?
 
 使用方式
 * 微信扫码获得身份认证
@@ -13,4 +12,4 @@
 关于本程序：
 * 依据开源程序https://github.com/0x5e/wechat-deleted-friends修改
 * 不会记录上传任何用户数据
-* 下载demo ：apk-demo
+* 下载demo ：[apk-demo](https://github.com/diaochunmeng/iFriendIdentification/blob/master/demo/友贱.png) 
