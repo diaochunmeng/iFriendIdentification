@@ -1,6 +1,6 @@
-![image](https://github.com/diaochunmeng/iFriendIdentification/blob/master/demo/icon.png)
-
 ![image](https://github.com/diaochunmeng/iFriendIdentification/blob/master/demo/launch.png)
+
+
 友贱 for Android
 究竟哪个jian人偷偷删你的微信?
 
