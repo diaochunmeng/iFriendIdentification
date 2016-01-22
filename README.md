@@ -10,6 +10,6 @@
 
 
 关于本程序：
-* 依据0x05提供的[开源程序](https://github.com/0x5e/wechat-deleted-friends)移植到安卓平台
+* 感谢[0x5e](https://github.com/0x5e)提供的NB的[开源程序](https://github.com/0x5e/wechat-deleted-friends),友贱做的事情就是将它移植到安卓平台
 * 不会记录上传任何微信用户数据! 引入了友盟想看看用户安装量，不需要可以去掉。
 * 下载demo ：[apk-demo](https://raw.github.com/diaochunmeng/iFriendIdentification/master/youjian.apk)
