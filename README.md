@@ -12,4 +12,4 @@
 关于本程序：
 * 依据开源程序https://github.com/0x5e/wechat-deleted-friends修改
 * 不会记录上传任何用户数据
-* 下载demo ：[apk-demo](https://github.com/diaochunmeng/iFriendIdentification/blob/master/youjian.apk)
+* 下载demo ：[apk-demo](https://github.com/diaochunmeng/iFriendIdentification/master/youjian.apk)
