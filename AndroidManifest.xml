@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jj.ifriendidentification"
+    android:versionCode="1"
+    android:versionName="1.0.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name="com.jj.ifriendidentification.BaseApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/logo_96"
+        android:label="@string/app_name"
+        android:logo="@drawable/logo_96"
+        android:theme="@android:style/Theme.NoTitleBar" >
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="56a0aa5567e58e875d000a3a" />
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="Offical" />
+        <meta-data
+            android:name="UMENG_CHANNEL_ID"
+            android:value="0036" />
+
+        <activity
+            android:name=".LoadActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+    </application>
+
+</manifest>
