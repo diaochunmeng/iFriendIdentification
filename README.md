@@ -12,4 +12,4 @@
 关于本程序：
 * 依据开源程序https://github.com/0x5e/wechat-deleted-friends修改
 * 不会记录上传任何用户数据
-* 下载demo ：[apk-demo](https://github.com/diaochunmeng/iFriendIdentification/blob/master/demo/友贱.apk) 
+* 下载demo ：[apk-demo](https://raw.github.com/biboune/colorpicker/master/colorpicker-sample.apk) 
